@@ -25,3 +25,5 @@ The following graph compares the growth of n, log<sub>2</sub> n, n<sup>2</sup>, 
 Logarithms grow more slowly than polynomials. That is, θ(log2 n) grows more slowly than θ(n<sup>a</sup>) for any positive constant a.
 
 So, we can say, here the function n<sup>3</sup> (Cubic) increases faster than that of the other functions.
+
+Cubic is the best one amongst them.

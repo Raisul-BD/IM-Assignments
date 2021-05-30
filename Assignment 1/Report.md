@@ -9,6 +9,7 @@ They are:
  - Quadratic = θ(n<sup>2</sup>)
  - Cubic = θ(n<sup>3</sup>)
  - Polynomial = θ(n<sup>k</sup>)
+
 The input values the functions were given as n = 7, k = 4
 
 ## Coding Process
@@ -16,7 +17,7 @@ The input values the functions were given as n = 7, k = 4
 2. Then create a dictionary with the lists.
 3. Then plotted the values and the Dataframe with the Seaborn library.
 
-The following graph compares the growth of n, log<sub>2</sub> n, n<sup>2</sup>, n<sup>3</sup> and n<sup>k</sup>:
+The following graph compares the growth of n, log<sub>2</sub> n, n<sup>2</sup>, n<sup>3</sup> and n<sup>k</sup> functions seperately:
 
 ![output](https://user-images.githubusercontent.com/76067046/120116802-a2cf6000-c1ab-11eb-9279-f490e82c8fa7.png)
 

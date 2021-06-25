@@ -35,3 +35,22 @@ tqdm
 pickle
 scipy
 ```
+## Executing Program
+
+- The notebook was run on Kaggle with GPU on.
+- Total Execution time was approximately 1.25 hours.
+
+## Authors
+
+Md Raisul Islam
+[Linkedin](https://www.linkedin.com/in/raisul-islam89/) || [Kaggle](https://www.kaggle.com/raisulju)
+
+## License
+
+Copyright 2021, Md Raisul Islam.
+
+This project is licensed under the Apache Version 2.0 License.
+
+## Acknowledgments
+The Project is created for the Upskill ISA IM Machine Learning Engineer Program.
+
